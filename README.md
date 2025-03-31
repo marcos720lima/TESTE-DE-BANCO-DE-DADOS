@@ -22,7 +22,7 @@ README.md → Informações sobre o projeto.
 
 1. Clone o repositório:
    ```bash
-   git clone https://github.com/seu-usuario/seu-repositorio.git
+   git clone https://github.com/marcos720lima/TESTE-DE-BANCO-DE-DADOS.git
 2. Acesse o PostgreSQL 17 no pgAdmin 4
 3. Execute as queries na ordem desejada
 
